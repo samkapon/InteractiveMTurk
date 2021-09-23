@@ -1,0 +1,20 @@
+<QuestionForm xmlns='http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd'>  
+    <Question>
+    <QuestionIdentifier>Qualification</QuestionIdentifier>
+    <DisplayName>Qualification</DisplayName>
+    <IsRequired>true</IsRequired>
+    <QuestionContent>
+      <Text>
+		TEXT
+      </Text>
+    </QuestionContent>
+    <AnswerSpecification>
+      <FreeTextAnswer>
+        <Constraints>
+          <Length minLength="1" maxLength="100" />
+        </Constraints>
+        <DefaultText></DefaultText>
+      </FreeTextAnswer>
+    </AnswerSpecification>
+	</Question>
+</QuestionForm>
