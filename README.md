@@ -12,4 +12,4 @@ After downloading folder, go to master.py
 
 The recruitment HITs that will be published have a free text reponse box which can be edited in question_answer/Test_directToMTurk.xml.  In master.py, editing the password entry in the create_qualification_HIT call will change the correct answer to the recruitment question.  Future versions will implement alternatives to free text response.
 
-Code tested on otree 2.6.
+Code tested on otree 2.6, but will test on recent versions and update.
