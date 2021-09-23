@@ -1,0 +1,3 @@
+otree[mturk]=2.6.0b1
+boto3
+requests
