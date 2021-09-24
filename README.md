@@ -1,6 +1,6 @@
-# InteractiveMTurk
+# interactive_mturk
 
-Simple code to
+Code to
 
 1) recruit participants and notify MTurk workers using boto3
 2) create HIT with qualification requirements using oTree REST API
